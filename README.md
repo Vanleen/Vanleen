@@ -1,4 +1,5 @@
-### Hi there, I'm Vanilda - aka [Vany or Vanleen] [Website][website]  👋
+### Hi there, I'm Vanilda - aka [Vany or Vanleen] [Website][website] <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+<br />
 
 <img src="https://github.com/Vanleen/Vanleen/blob/main/img/header.png" alt="banner that says I am Vanilda VASCONCELOS - web developer & programmeur - image of computer and hands on it.">
 
@@ -9,14 +10,13 @@
 - 🧠 learning Stack MERN - MongoDB | Express | ReactJS | NodeJS
 - 🥅 Projets: Soon I will pop online a social media (inspo FB)
 - ⚡ Fun fact: I love to dance (shuffle | Cutting-Shapes) | Play HeartStone | Art
-
 <br />
 
 ### Connect with me:
 
-[<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="vcreadev.fr" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" alt="VanildaLinkedin | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="VanildaInsta | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 <br />
 
@@ -35,9 +35,9 @@
 
 <br />
 
-
 [website]: https://vcreadev.fr
 [instagram]: https://instagram.com/vcreadev
 [linkedin]: https://linkedin.com/in/vanyvcrea
+[flickr]: https://https://www.flickr.com/people/vanleen-brooks/
 
 
