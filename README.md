@@ -3,8 +3,8 @@
 
 
 👨🏼‍💻 building [vcreadev.fr][website]  
-🧠 learning [mern][mern], [php][php], [wordpress][wordpress]
-💜 loving [stack mern][stack mern], [heartstone][heartstone]
+🧠 learning Stack MERN - MongoDB | Express | ReactJS | NodeJS
+💜 loving JavaScript & learning new stuff
 
 🏡 [website][website] **|** 
 📷 [instagram][instagram] **|** 
