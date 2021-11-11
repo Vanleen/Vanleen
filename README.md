@@ -1,5 +1,4 @@
 ### Hi there, I'm Vanilda - aka [Vany or Vanleen] [Website][website] <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
-<br />
 
 <img src="https://github.com/Vanleen/Vanleen/blob/main/img/header.png" alt="banner that says I am Vanilda VASCONCELOS - web developer & programmeur - image of computer and hands on it.">
 
@@ -19,6 +18,7 @@
 [<img align="left" alt="VanildaInsta | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 <br />
+<br />
 
 ### Languages and Tools:
 
@@ -34,6 +34,14 @@
 <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 
 <br />
+
+### Others: <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50">
+♦ Photoshop <br />
+♦ Adobe XD | Figma
+
+<br />
+
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people | Share, Help & Collaborate </b> </b> :)</em>
 
 [website]: https://vcreadev.fr
 [instagram]: https://instagram.com/vcreadev
