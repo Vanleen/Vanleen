@@ -10,7 +10,7 @@
 📷 [instagram][instagram] **|** 
 👔 [linkedin][linkedin]
 
-[banner]: (https://github.com/Vanleen/Vanleen/master/img/VanildaDev.png)
+[banner]: (https://github.com/Vanleen/Vanleen/master/img/vanilda.jpg)
 
 [website]: https://vcreadev.fr
 [instagram]: https://instagram.com/vcreadev
