@@ -7,7 +7,7 @@ I also work with PHP | MySQL | WordPress (dev part with theme child).
 And I look more for Jamstack, I need to pratice JavaScript much much more so :)
 
 👨🏼‍💻 building [vcreadev.fr][website]  
-🧠 learning Stack MERN - MongoDB | Express | ReactJS | NodeJS
+🧠 learning Stack MERN - MongoDB | Express | ReactJS | NodeJS <br>
 💜 loving JavaScript & learning new stuff
 
 🏡 [website][website] **|** 
